@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "nama": "aska",
+      "nohp": "081589727832",
+      "alamat": "Pekalongan",
+      "umur": 25,
+      "id": "1"
+    },
+    {
+      "nama": "fani",
+      "nohp": "08138904902",
+      "alamat": "malang",
+      "umur": "19",
+      "id": "2"
+    },
+    {
+      "nama": "reza",
+      "nohp": "081289763876",
+      "alamat": "bali",
+      "umur": "32",
+      "id": "4"
+    },
+    {
+      "nama": "riska",
+      "nohp": "081187909203",
+      "alamat": "bandung",
+      "umur": "32",
+      "id": "5"
+    },
+    {
+      "nama": "dewa",
+      "nohp": "081778233094",
+      "alamat": "lombok",
+      "umur": "27",
+      "id": "59cb"
+    },
+    {
+      "id": "ce5d",
+      "username": "mwemwe",
+      "email": "hitam@gmail.com",
+      "password": "asd"
+    },
+    {
+      "id": "5aa2",
+      "nama": "banu",
+      "alamat": "solo",
+      "nohp": "081589872673",
+      "umur": "23"
+    },
+    {
+      "id": "458e",
+      "username": "kom",
+      "email": "kom@gmail.com",
+      "password": "kom"
+    }
+  ]
+}
